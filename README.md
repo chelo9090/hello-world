@@ -1,2 +1,3 @@
 # hello-world
-repositorio hello
+hola cibernautas este es mi primera prueba en Githoup xD
+ADIOS
